@@ -4,3 +4,4 @@ outputs/
 .venv
 .DS_Store
 Thumbs.db
+main.py
